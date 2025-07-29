@@ -1,3 +1,4 @@
+![Gameplay Screenshot](https://github.com/Buckerit/Icy-Guardian/blob/main/Icy_Guardian_SCREENSHOT.png?raw=true)
 Icy Guardian is a fun and exciting game where you (the player) are stranded in a monster-inhabited island. You must rebuild your time machine by 
 collecting all 21 Ice Shards which will randomly spawn on the screen! However, the monsters love a good meal, so you have to dodge and shoot the 
 wolves, the council of 4 wizards, and flying enemies that spawn in. Luckily you’ve been blessed with infinite bullets. You also have to try and collect
