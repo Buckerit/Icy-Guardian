@@ -1,15 +1,9 @@
-1. What is your program? In other words, what does it do? Be sure to include
-all the key features of your program.
-
 Icy Guardian is a fun and exciting game where you (the player) are stranded in a monster-inhabited island. You must rebuild your time machine by 
 collecting all 21 Ice Shards which will randomly spawn on the screen! However, the monsters love a good meal, so you have to dodge and shoot the 
 wolves, the council of 4 wizards, and flying enemies that spawn in. Luckily you’ve been blessed with infinite bullets. You also have to try and collect
 the randomly spawning Ice shards that spawn around the map. You win if you collect 21 shards! As time goes on, it gets harder to collect the shards as 
 there would be more enemies that you have to deal with, due to the interval the enemy spawns decreases to make them spawn faster. You also have a 
 chance to recover your health through the health power up that randomly spawns and moves across the window from the left, right, top or bottom. 
-
-2. How does your program work? Be sure to include instructions so that users understand how to utilize all the features of your program and will
-understand what to expect in case they encounter a problem(s).
 
 HOW TO PLAY:
 - WASD to move around
