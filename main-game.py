@@ -1,9 +1,5 @@
 '''
-Name: Aarav Rothe and Johann Jacob
-Subject: ICSS4U
-Teacher: Mr. Bulhao
-Date: January 1st, 2025
-Assignment: Icy Guardian
+Icy Guardian
 '''
 
 #import all python libraries and modules
@@ -745,4 +741,5 @@ root.bind('<ButtonPress>', onbuttonpress)
 root.bind('<KeyRelease>', onkeyrelease)
 
 #mainloop the window to keep it going
+
 root.mainloop()
